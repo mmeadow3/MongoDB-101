@@ -1,0 +1,9 @@
+driver version mongoDB
+
+npm init
+npm install --save mongodb    https://github.com/mongodb/node-mongodb-native
+
+/////////////////////////////////////
+to close out mongod
+killall mongod
+/////////////////////////////////////
